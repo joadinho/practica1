@@ -4,6 +4,13 @@
     color: rgb(9, 211, 19);
 }
 
+/*color de fondo*/
+
+.fondo
+{
+    background-color: rgb(6, 152, 172);
+}
+
 /*centrado de pagina*/
 .centrar
 {
