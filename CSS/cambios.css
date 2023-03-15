@@ -11,14 +11,14 @@
 /*Colores Gato perro*/
 .coloresGP
 {
-    color: rgb(9, 211, 19);
+    color: rgb(0, 0, 0);
 }
 
 /*color de fondo*/
 
 .fondo
 {
-    background-color: rgb(6, 152, 172);
+    background-color: rgba(214, 236, 14, 0.555);
 }
 
 /*centrado de pagina*/
@@ -33,7 +33,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: rgb(25, 0, 255);
   }
   
   li {
@@ -53,5 +53,5 @@ ul {
   }
   
   .active {
-    background-color: #04AA6D;
+    background-color: #7e7e7e;
   }
