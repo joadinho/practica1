@@ -1,5 +1,15 @@
-/*cambio de colores*/
-.colores
+/*Colores titulo*/
+.coloresT
+{
+    color: rgb(9, 211, 19);
+}
+/*Colores parrafo*/
+.coloresP
+{
+    color: rgb(9, 211, 19);
+}
+/*Colores Gato perro*/
+.coloresGP
 {
     color: rgb(9, 211, 19);
 }
