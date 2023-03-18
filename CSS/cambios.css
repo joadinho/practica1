@@ -58,3 +58,12 @@ ul {
     background-color: #7e7e7e;
   }
 
+  /*centrado de imagenes*/
+
+  .img
+   {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
